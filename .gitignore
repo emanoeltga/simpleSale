@@ -31,3 +31,25 @@ build/
 
 ### VS Code ###
 .vscode/
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Outros arquivos que não devem ser versionados
+*.class
+*.jar
+*.war
+*.ear
+*.user
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de configuração do Maven
+mvnw
+mvnw.cmd
+
+# Diretórios de cache
+.cache/
