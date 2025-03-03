@@ -47,9 +47,5 @@ build/
 *.sublime-workspace
 *.sublime-project
 
-# Arquivos de configuração do Maven
-mvnw
-mvnw.cmd
-
 # Diretórios de cache
 .cache/
